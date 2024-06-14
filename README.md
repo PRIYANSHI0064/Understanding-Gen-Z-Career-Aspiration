@@ -1,6 +1,7 @@
 # Understanding-Gen-Z-Career-Aspiration
 
-This survey for understanding Gen-Z (individual age 12-28)  career aspirations. As an intern @KultureHire, my project was to comprehend Gen-Z's career aspirations in order to learn important information about their objectives, aspirations, and the variables influencing their career decisions.
+ Gen-Z are individual whose age in between 12-28 .
+. As an intern @KultureHire, my project was to comprehend Gen-Z's career aspirations in order to learn important information about their objectives, aspirations, and the variables influencing their career decisions.
 
 -- Methodology and approch used:
 
